@@ -1,0 +1,13 @@
+C:\coding tasks\task-multiplikator\bin\Debug\netcoreapp3.1\task-multiplikator.exe
+C:\coding tasks\task-multiplikator\bin\Debug\netcoreapp3.1\task-multiplikator.deps.json
+C:\coding tasks\task-multiplikator\bin\Debug\netcoreapp3.1\task-multiplikator.runtimeconfig.json
+C:\coding tasks\task-multiplikator\bin\Debug\netcoreapp3.1\task-multiplikator.runtimeconfig.dev.json
+C:\coding tasks\task-multiplikator\bin\Debug\netcoreapp3.1\task-multiplikator.dll
+C:\coding tasks\task-multiplikator\bin\Debug\netcoreapp3.1\task-multiplikator.pdb
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.csprojAssemblyReference.cache
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.AssemblyInfoInputs.cache
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.AssemblyInfo.cs
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.csproj.CoreCompileInputs.cache
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.dll
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.pdb
+C:\coding tasks\task-multiplikator\obj\Debug\netcoreapp3.1\task-multiplikator.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+﻿<Window x:Class="wpf_calculator_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_calculator_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="500">
+    <Grid>
+        <Button x:Name="Seven_B" Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="10,146,0,0" Height="70" FontSize="24" Click="Seven_B_Click"/>
+        <Button x:Name="Eight_B" Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="106,146,0,0" Height="70" FontSize="24" Click="Eight_B_Click"/>
+        <Button x:Name="Nine_B" Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="202,146,0,0" Height="70" FontSize="24" Click="Nine_B_Click"/>
+        <Button x:Name="Four_B" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="10,241,0,0" Height="70" FontSize="24" Click="Four_B_Click"/>
+        <Button x:Name="Five_B" Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="106,241,0,0" Height="70" FontSize="24" Click="Five_B_Click"/>
+        <Button x:Name="Six_B" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="202,241,0,0" Height="70" FontSize="24" Click="Six_B_Click"/>
+        <Button x:Name="One_B" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="10,334,0,0" Height="70" FontSize="24" Click="One_B_Click"/>
+        <Button x:Name="Two_B" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="106,334,0,0" Height="70" FontSize="24" Click="Two_B_Click"/>
+        <Button x:Name="Three_B" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="202,334,0,0" Height="70" FontSize="24" Click="Three_B_Click"/>
+        <Button x:Name="Zero_B" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="10,428,0,0" Height="70" FontSize="24" Click="Zero_B_Click"/>
+        <Button x:Name="Point_B" Content="." HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="106,428,0,0" Height="70" FontSize="24" Click="Point_B_Click"/>
+        <Button x:Name="ClearButton" Content="C" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="202,428,0,0" Height="70" FontSize="24" Click="ClearButton_Click" />
+        <Button x:Name="Plus_B" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="298,146,0,0" Height="70" FontSize="24" Click="Plus_B_Click"/>
+        <Button x:Name="Minus_B" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="396,146,0,0" Height="70" FontSize="24" Click="Minus_B_Click"/>
+        <Button x:Name="Multipl_B" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="298,241,0,0" Height="70" FontSize="24" Click="Multipl_B_Click"/>
+        <Button x:Name="Division_B" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="396,241,0,0" Height="70" FontSize="24" Click="Division_B_Click"/>
+        <Button x:Name="Skobka_B" Content="(" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="298,334,0,0" Height="70" FontSize="24" Click="Skobka_B_Click"/>
+        <Button x:Name="S2_B"  Content=")" HorizontalAlignment="Left" VerticalAlignment="Top" Width="70" Margin="396,334,0,0" Height="70" FontSize="24" Click="S2_B_Click"/>
+        <Button x:Name="result_B" Content="=" HorizontalAlignment="Left" VerticalAlignment="Top" Width="168" Margin="298,428,0,0" Height="70" FontSize="24" Click="result_B_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="110" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="474" FontSize="48"/>
+
+    </Grid>
+</Window>

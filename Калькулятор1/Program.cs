@@ -17,7 +17,7 @@ namespace Калькулятор1
                 Console.WriteLine("Введите число 2");
                 secondeValue = double.Parse(Console.ReadLine());
 
-                Console.WriteLine("Выберите операцию: '+' '-' '*' '/'");
+                Console.WriteLine("Выберите операцию: '+' '-' '*' '/' '^' ");
                 action = Console.ReadLine();
 
                 switch (action)
@@ -27,6 +27,10 @@ namespace Калькулятор1
                         break;
                     case "-":
                         Console.WriteLine(firstValue - secondeValue);
+                        break;
+                    case "^":
+                        Console.WriteLine(firstValue * firstValue);
+                        Console.WriteLine(secondeValue * secondeValue);
                         break;
                     case "*":
                         Console.WriteLine(firstValue * secondeValue);

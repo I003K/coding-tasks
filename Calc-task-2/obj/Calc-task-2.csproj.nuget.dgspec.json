@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\coding tasks\\Calc-task-2\\Calc-task-2.csproj": {}
+    "C:\\coding tasks\\calc-task-2\\Calc-task-2.csproj": {}
   },
   "projects": {
-    "C:\\coding tasks\\Calc-task-2\\Calc-task-2.csproj": {
+    "C:\\coding tasks\\calc-task-2\\Calc-task-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\coding tasks\\Calc-task-2\\Calc-task-2.csproj",
+        "projectUniqueName": "C:\\coding tasks\\calc-task-2\\Calc-task-2.csproj",
         "projectName": "Calc-task-2",
-        "projectPath": "C:\\coding tasks\\Calc-task-2\\Calc-task-2.csproj",
+        "projectPath": "C:\\coding tasks\\calc-task-2\\Calc-task-2.csproj",
         "packagesPath": "C:\\Users\\Дом\\.nuget\\packages\\",
-        "outputPath": "C:\\coding tasks\\Calc-task-2\\obj\\",
+        "outputPath": "C:\\coding tasks\\calc-task-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дом\\AppData\\Roaming\\NuGet\\NuGet.Config",
